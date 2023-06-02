@@ -1,17 +1,16 @@
-/* Estilos generales del formulario */
+
 form {
     max-width: 400px;
     margin: 0 auto;
   }
   
-  /* Estilos de las etiquetas */
+
   form label {
     display: block;
     margin-bottom: 5px;
     font-weight: bold;
   }
-  
-  /* Estilos de los campos de entrada */
+
   form input[type="text"],
   form input[type="email"],
   form input[type="number"],
